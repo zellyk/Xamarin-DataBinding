@@ -1,0 +1,15 @@
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/bin/Debug/netstandard2.0/DataBinding.deps.json
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/bin/Debug/netstandard2.0/DataBinding.dll
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/bin/Debug/netstandard2.0/ref/DataBinding.dll
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/bin/Debug/netstandard2.0/DataBinding.pdb
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/DataBinding.csproj.AssemblyReference.cache
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/DataBinding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/DataBinding.AssemblyInfoInputs.cache
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/DataBinding.AssemblyInfo.cs
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/DataBinding.csproj.CoreCompileInputs.cache
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/DataBinding.dll
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/ref/DataBinding.dll
+/Users/jonathan/Desktop/iOS/DataBinding/DataBinding/obj/Debug/netstandard2.0/DataBinding.pdb

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{22A19B21-F3A4-4D16-B7AE-ECAA6042DCD1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataBinding/Fruit.cs">
+    <Files>
+      <File FileName="DataBinding/MainPage.xaml" Line="9" Column="1" />
+      <File FileName="DataBinding/MainPage.xaml.cs" Line="19" Column="9" />
+      <File FileName="DataBinding/Fruit.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataBinding" expanded="True">
+            <Node name="DataBinding" expanded="True">
+              <Node name="Fruit.cs" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DataBinding.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4F6F952C-0B91-46C6-86FB-E3C4A9A0A970" />
+  <MonoDevelop.Ide.ItemProperties.DataBinding.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
